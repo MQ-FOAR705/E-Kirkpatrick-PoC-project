@@ -19,7 +19,6 @@
 Further to my scoping and elaboration, I will focus on the tools that can be used to identify common themes between multiple sources from different databases and how they can be stored in the same place with their metadata, so that additional annotations can be added and they can have shared labels.
 
 \section{User Stories}
-\textbf{Note:} User stories must be completed in order listed. Each user story depends on the story before being completed. 
 \subsection{Identify commonalities}
 As a research student, I would like a program which can compare multiple sources at once to identify common themes and terms. This will help determine relevance of source to project.
 \subsection{Extract information}
@@ -32,6 +31,11 @@ As a research student, I would like to be able to add annotations to stored sour
 As a research student, I would like to link specific sources through tags or labels so they can be grouped together. 
 \subsection{Export metadata}
 As a research student, I would like to export metadata to a word processing program, such as Microsoft Word, in order to automate the reference list. 
+\section{Notes on User Stories}
+Each user story has been broken into specific categories which represent their overall task. The acceptance criteria in the section below, is aligned with each of these categories. \\
+Each user story should be completed in the listed order as for optimum outcomes, each story depends on the success of the one before. \\
+For this project to work, user story "Identify Commonalities" and "Store Sources" must work. These two user stories are core to the project and represent the overall aims of being able to compare multiple sources at once and store them together. "Extracting information" and "Export metadata" user stories are also crucial for the functional aspects of this project. \\
+"Annotations" and "Grouping" are less essential user stories. Although, they are very useful for specificying sources to the researchers needs. Yet, sources can be compared and stored adequately without these user stories.
 
 \section{Acceptance Criteria}
 \subsection{Identify commonalities}
@@ -81,9 +85,19 @@ As a research student, I should be able to:
 \subsection{Pre-requisites:}
 \begin{itemize}
     \item All user stories must be completed in order for full efficiency. 
+    \item An appropriate database must be selected for initial research phase to find sources. \textit{Macquarie University database was tested and selected during Elaboration}
     \item Voyant must have been tested prior with known sources to determine whether this is reliable. \textit{This was completed in elaboration.}
     \item Zotero must be installed on computer and a connecting icon added to the browser of choice (Mozilla Firefox) before beginning. \textit{This was completed in elaboration.}
     \end{itemize}
+    
+\section{Quality Assurance}
+\subsection{Identify Commonalities:}
+For Voyant to be successful, it must identify commonalities between the different sources. At least 3 key terms will be identified and will be reflected in the trends tool. It must also show where in the source is each term used.
 
+\subsection{Extract Information and Store Sources:}
+For Zotero to be successful, it must be able to extract both the source and the metadata from Voyant. The sources and metadata must be accessible. 
+
+\subsection{Annotation and Grouping:}
+Annotations and tags can be added and accessed at future points, and added to. For Zotero to be successful, these must be saved and able to be grouped together and searched by tags.
 
 \end{document}
