@@ -2,3 +2,6 @@
 This repositry is my proof of concept project.
 It contains a project that can be used for identifying common themes between multiple sources at once and then storing them where relevant tags and annotations can be added. 
 The aim of this project is to make finding and storing multiple sources (such as peer reviewed journal articles) more efficient for researchers.
+#In this repositry
+This repositry includes the project management tools, including user stories, to test the efficiency of this process.
+It also includes the license that is required for access.
