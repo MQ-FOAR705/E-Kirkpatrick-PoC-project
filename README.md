@@ -9,7 +9,7 @@ This repositry includes the project management tools, including user stories, to
 It also includes the appropriate licensing requirements. <br />
 
 ### Description of softwares and programs
-Voyant tools - accessed via https://voyant-tools.org/ on any selected web browser. 
+Voyant tools - an open-source, web-based application that performs text analysis. 
 Zotero - an open-source reference management software that manages bibliographic data and source materials which is free to install.
 
 
