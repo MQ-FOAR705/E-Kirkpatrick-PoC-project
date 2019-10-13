@@ -6,4 +6,10 @@ This provides insight for researchers and allows them to annotate and group sour
 
 ## In this repositry
 This repositry includes the project management tools, including user stories, to test the efficiency of this process. <br />
-It also includes the appropriate licensing requirements. 
+It also includes the appropriate licensing requirements. <br />
+
+### Description of softwares and programs
+Voyant tools - accessed via https://voyant-tools.org/ on any selected web browser. 
+Zotero - an open-source reference management software that manages bibliographic data and source materials which is free to install.
+
+
