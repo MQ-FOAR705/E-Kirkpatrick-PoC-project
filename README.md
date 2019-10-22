@@ -7,6 +7,7 @@ This provides insight for researchers and allows them to annotate and group sour
 ## In this repositry
 This repositry includes the project management tools, including user stories, to test the efficiency of this process. <br />
 It also includes the appropriate licensing requirements. <br />
+It also contains submodules which link to repositries containing the workflow process of this proof of concept project and the related original software publication. 
 
 ### Description of softwares and programs
 Voyant tools - an open-source, web-based application that performs text analysis. <br />
