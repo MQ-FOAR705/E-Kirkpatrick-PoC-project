@@ -20,3 +20,4 @@ Zotero - an open-source reference management software that manages bibliographic
 
 ![Image of_Voyant](https://github.com/MQ-FOAR705/E-Kirkpatrick-PoC-project/blob/master/zotero-library-image.jpg)
 *Image 2: Image displays the Zotero library and the menu which will appeared when a specific text is selected and the original source can be accessed.*
+
