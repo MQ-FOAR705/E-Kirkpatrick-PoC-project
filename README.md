@@ -10,8 +10,8 @@ It also includes the appropriate licensing requirements. <br />
 It also contains submodules which link to repositries containing the workflow process of this proof of concept project and the related original software publication. 
 
 ### Description of softwares and programs
-Voyant tools - an open-source, web-based application that performs text analysis. <br />
-Zotero - an open-source reference management software that manages bibliographic data and source materials which is free to install.
+Voyant tools - an open-source, web-based application that performs text analysis. Voyant tools can be accessed via any web browser at: https://voyant-tools.org/ <br />
+Zotero - an open-source reference management software that manages bibliographic data and source materials. Zotero can be installed for free here: https://www.zotero.org/download/
 
 ### Images
 ![Image of_Voyant](https://github.com/MQ-FOAR705/E-Kirkpatrick-PoC-project/blob/master/voyant-tools-trends-image.jpg)
