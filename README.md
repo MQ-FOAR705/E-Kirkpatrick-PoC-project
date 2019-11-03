@@ -4,7 +4,7 @@ It contains a project which corresponds to a documented workflow process which a
 In this project sources, and the appropriate metadata, can be saved onto a localised storage program (Zotero), directly from an online database. They can then be transferred to Voyant tools (open via a web browser) which can identify shared themes, terms and other commonalities between sources. <br />
 This provides insight for researchers and allows them to annotate and group sources within the storage program accordingly so that they can access them in later stages of the research process with no information or insights lost. This also makes it easier for additional collaborators in the research process to access information. <br />
 
-## In this repositry
+## In this repository
 This repositry includes the project management tools, including user stories, to test the efficiency of this process. <br />
 It also includes the appropriate licensing requirements. <br />
 It also contains submodules which link to repositries containing the workflow process of this proof of concept project and the related original software publication. 
